@@ -1,5 +1,4 @@
-Hi, I'm Mubarak-Adogu
-
+ Hi, I'm Mubarak-Adogu
 -Python Developer
 -currently learning Django & Backend Development
 -Learning Django & Backend Development
@@ -15,4 +14,3 @@ Skills:
 - Strengthening python fundamentals
 - Building small, pratical projects
 - Learning professional Git workflows
-- l
